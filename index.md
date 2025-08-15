@@ -42,10 +42,12 @@ Hi! My name is Darshan.!!!
 <a href="{{site.baseurl}}/snake" class="button small" style="background-color: #6b4bd3ff">
     Snake Game
 </a>
+<a href="{{site.baseurl}}/testing game" class="button large" style="background-color: #ac4f93ff">
+    <span style="color: #3a3a3aff">Turtle</span>
+</a>
 <a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #2A7DB1">
     <span style="color: #000000">Turtle</span>
 </a>
-
 <br>
 
 <!-- Contact Section -->
