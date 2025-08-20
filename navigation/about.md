@@ -99,18 +99,19 @@ Flags are made using Wikipedia images
 ### Journey through Life
 
 Here is what I did at those places
-  🏫 Day care at India (I got scolded alot)
+- 🏫 Day care at India (I got scolded alot)
 - 🏫 3 Elementary schools including Dingeman elementary, Stone ranch, and Delsur elementary
 - 🏫 Middle School: Oakvalley
-  🏫 Highschool: Delnorte!
-- 
+- 🏫 Highschool: Delnorte!
+
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
+Everything for me, is family, culture, being a great person, and hitting the gym as much as possible
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
+- My mother is from a city in tamilnadu (india) called Salem[family tree]({{site.baseurl}}/images/about/familytree.png)
+- My dad is from a city in tamilnadu (india) called Coimbatore
+- My family is very big, besides having lots of relatives some are related to each other making connections stretch even further 
 - The gallery of pics has some of my family, fun, culture and faith memories.
 
 <comment>
