@@ -61,7 +61,7 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - 12 years "},
-        {"flag": "b/b9/Flag_of_India.svg", "greeting": "Hi", "description": "India - 3 years"},
+        {"flag": "4/41/Flag_of_India.svg", "greeting": "Hi", "description": "India - 3 years"},
     
     ];
 
@@ -96,29 +96,34 @@ Flags are made using Wikipedia images
     }
 </script>
 
-### Journey through Life
+### Education 
 
-Here is what I did at those places
+Here is where I went to school
 - 🏫 Day care at India (I got scolded alot)
 - 🏫 3 Elementary schools including Dingeman elementary, Stone ranch, and Delsur elementary
 - 🏫 Middle School: Oakvalley
 - 🏫 Highschool: Delnorte!
 
 
-### Culture, Family, and Fun
+### Culture and Famil
 
 Everything for me, is family, culture, being a great person, and hitting the gym as much as possible
 
+- I am indian, and from a state in india called tamilnadu and I am a hindu
 - My mother is from a city in tamilnadu (india) called Salem[family tree]({{site.baseurl}}/images/about/familytree.png)
 - My dad is from a city in tamilnadu (india) called Coimbatore
 - My family is very big, besides having lots of relatives some are related to each other making connections stretch even further 
 - The gallery of pics has some of my family, fun, culture and faith memories.
 
+
+
+*/
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png
+  " alt="Image 1">
   <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
