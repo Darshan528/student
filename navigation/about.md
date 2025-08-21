@@ -137,27 +137,27 @@ Gallery of Pics, scroll to the right for more ...
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Chennai_Montage.jpg"
        alt="Chennai City">
 </div>
-<head>
-  ...
-  <style>
-    /.image-gallery {
-  display: flex;
-  gap: 10px;              /* space between images */
-  overflow-x: auto;        /* enable horizontal scroll */
-  padding: 10px;
-  scroll-behavior: smooth; /* smooth scrolling */
-  background: #f9f9f9;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  max-width: 100%;         /* prevents overflow outside page */
-}
 
-.image-gallery img {
-  height: 200px;          /* adjust size */
-  flex-shrink: 0;         /* don’t shrink images */
-  border-radius: 6px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-}
+### Culture and Family
 
-  </style>
-</head>
+Gallery of Pics (scroll right for more):
+
+<div style="display:flex; gap:10px; overflow-x:auto; padding:10px; scroll-behavior:smooth; background:#f9f9f9; border:1px solid #ddd; border-radius:8px; max-width:100%;">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png" 
+       alt="Tamil Nadu District Map" 
+       style="height:200px; flex-shrink:0; border-radius:6px; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png" 
+       alt="Tamil Nadu District Map" 
+       style="height:200px; flex-shrink:0; border-radius:6px; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/India_Tamil_Nadu_locator_map.svg" 
+       alt="Tamil Nadu Locator Map" 
+       style="height:200px; flex-shrink:0; border-radius:6px; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Chennai_Montage.jpg" 
+       alt="Chennai City" 
+       style="height:200px; flex-shrink:0; border-radius:6px; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
+
+</div>
