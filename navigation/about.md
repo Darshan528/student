@@ -129,8 +129,14 @@ Gallery of Pics, scroll to the right for more ...
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png" 
        alt="Tamil Nadu District Map">
 </div>
-
-<style>
+<div class="image-gallery">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png" 
+       alt="Tamil Nadu District Map">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/India_Tamil_Nadu_locator_map.svg"
+       alt="Tamil Nadu Locator Map">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Chennai_Montage.jpg"
+       alt="Chennai City">
+</div>
 .image-gallery {
   display: flex;
   gap: 10px;              /* space between images */
@@ -140,12 +146,12 @@ Gallery of Pics, scroll to the right for more ...
   background: #f9f9f9;
   border: 1px solid #ddd;
   border-radius: 8px;
+  max-width: 100%;         /* prevents overflow outside page */
 }
 
 .image-gallery img {
-  height: 250px;          /* adjust size */
-  flex-shrink: 0;         /* prevent images from shrinking */
+  height: 200px;          /* adjust size */
+  flex-shrink: 0;         /* don’t shrink images */
   border-radius: 6px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
-</style>
