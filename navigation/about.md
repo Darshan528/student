@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 comments: true
 ---
+#Mr. Mortenson you only see us in binary: 1s if your paying attention, 0s if yo're daydreaming
+
 
 ## As a conversation Starter
 
-Here are some places I have visited
+Areas I have lived in 
 
 <comment>
 Flags are made using Wikipedia images
@@ -105,15 +107,17 @@ Here is where I went to school
 - 🏫 Highschool: Delnorte!
 
 
-### Culture and Famil
+### Culture and Family
 
 Everything for me, is family, culture, being a great person, and hitting the gym as much as possible
 
-- I am indian, and from a state in india called tamilnadu and I am a hindu
-- My mother is from a city in tamilnadu (india) called Salem[family tree]({{site.baseurl}}/images/about/familytree.png)
+- I'm indian and from a state called tamilnadu
+- I'm religous and believe in hinduisum
+- My mother is from a city in tamilnadu (india) called Salem ({{site.baseurl}}/images/about/familytree.png)
 - My dad is from a city in tamilnadu (india) called Coimbatore
-- My family is very big, besides having lots of relatives some are related to each other making connections stretch even further 
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- My favorite cultural food is pongal (Ven Pongal is a creamy, comforting dish made with raw rice and yellow moong dal,
+ tempered with ghee, cumin, black pepper, ginger, curry leaves, and asafoetida, giving it a rich, aromatic flavor.)
+- A cultural day I enjoy is diwali because its fun to get together with friends and light fireworks
 
 
 
@@ -122,17 +126,7 @@ Everything for me, is family, culture, being a great person, and hitting the gym
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png
-  " alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png" 
+       alt="Tamil Nadu District Map">
 </div>
+
