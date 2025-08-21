@@ -137,7 +137,10 @@ Gallery of Pics, scroll to the right for more ...
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Chennai_Montage.jpg"
        alt="Chennai City">
 </div>
-.image-gallery {
+<head>
+  ...
+  <style>
+    /.image-gallery {
   display: flex;
   gap: 10px;              /* space between images */
   overflow-x: auto;        /* enable horizontal scroll */
@@ -155,3 +158,6 @@ Gallery of Pics, scroll to the right for more ...
   border-radius: 6px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
+
+  </style>
+</head>
