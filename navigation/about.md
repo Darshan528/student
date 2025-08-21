@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 comments: true
 ---
-#Mr. Mortenson you only see us in binary: 1s if your paying attention, 0s if yo're daydreaming
+#Mr. Mortenson you only see us in binary: 1s if we're paying attention, and 0s if we're daydreaming
 
 
 ## As a conversation Starter
@@ -113,7 +113,7 @@ Everything for me, is family, culture, being a great person, and hitting the gym
 
 - I'm indian and from a state called tamilnadu
 - I'm religous and believe in hinduisum
-- My mother is from a city in tamilnadu (india) called Salem ({{site.baseurl}}/images/about/familytree.png)
+- My mother is from a city in tamilnadu (india) called Salem
 - My dad is from a city in tamilnadu (india) called Coimbatore
 - My favorite cultural food is pongal (Ven Pongal is a creamy, comforting dish made with raw rice and yellow moong dal,
  tempered with ghee, cumin, black pepper, ginger, curry leaves, and asafoetida, giving it a rich, aromatic flavor.)
@@ -121,7 +121,7 @@ Everything for me, is family, culture, being a great person, and hitting the gym
 
 
 
-*/
+ 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
@@ -130,3 +130,22 @@ Gallery of Pics, scroll to the right for more ...
        alt="Tamil Nadu District Map">
 </div>
 
+<style>
+.image-gallery {
+  display: flex;
+  gap: 10px;              /* space between images */
+  overflow-x: auto;        /* enable horizontal scroll */
+  padding: 10px;
+  scroll-behavior: smooth; /* smooth scrolling */
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.image-gallery img {
+  height: 250px;          /* adjust size */
+  flex-shrink: 0;         /* prevent images from shrinking */
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+</style>
