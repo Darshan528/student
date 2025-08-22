@@ -126,15 +126,15 @@ Everything for me, is family, culture, being a great person, and hitting the gym
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png" 
+  <img src="https://imgs.search.brave.com/jviVMd4ZmNWU6qGpYOK5Ba1SElKb-s0vnbyCkcrT4oo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFuZXR6b25l/LmNvbS9wdWJsaWMv/YWRtaW4vdXBsb2Fk/SW1hZ2UvMV9NYXBf/b2ZfVGFtaWxfTmFk/dS5qcGc" 
        alt="Tamil Nadu District Map">
 </div>
 <div class="image-gallery">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png" 
+  <img src="" 
        alt="Tamil Nadu District Map">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/India_Tamil_Nadu_locator_map.svg"
+  <img src="https://static.sadhguru.org/d/46272/1633203136-1633203135756.jpg"
        alt="Tamil Nadu Locator Map">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Chennai_Montage.jpg"
+  <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Map_of_Tamil_Nadu.jpg"
        alt="Chennai City">
 </div>
 
@@ -142,22 +142,20 @@ Gallery of Pics, scroll to the right for more ...
 
 Gallery of Pics (scroll right for more):
 
-<div style="display:flex; gap:10px; overflow-x:auto; padding:10px; scroll-behavior:smooth; background:#f9f9f9; border:1px solid #ddd; border-radius:8px; max-width:100%;">
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png" 
-       alt="Tamil Nadu District Map" 
-       style="height:200px; flex-shrink:0; border-radius:6px; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Tamil_Nadu_District_Map_%28Tamil%29.png" 
-       alt="Tamil Nadu District Map" 
-       style="height:200px; flex-shrink:0; border-radius:6px; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/India_Tamil_Nadu_locator_map.svg" 
-       alt="Tamil Nadu Locator Map" 
-       style="height:200px; flex-shrink:0; border-radius:6px; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Chennai_Montage.jpg" 
-       alt="Chennai City" 
-       style="height:200px; flex-shrink:0; border-radius:6px; box-shadow:0 2px 5px rgba(0,0,0,0.2);">
-
+<comment>
+Gallery of Pics, scroll to the right for more ...
+</comment>
+<div class="image-gallery">
+  <img src="{{site.baseurl}}/images/india temple 1.png" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
+  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
+  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
+  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
+  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
+  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
+  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
+  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
 </div>
