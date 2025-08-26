@@ -150,6 +150,7 @@ Gallery of Pics, scroll to the right for more ...
   <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Map_of_Tamil_Nadu.jpg" alt="Image 2">
   <img src="ttps://static.sadhguru.org/d/46272/1633203136-1633203135756.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
+  <img src="https://static.sadhguru.org/d/46272/1633203136-1633203135756.jpg"
   <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
   <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
   <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
