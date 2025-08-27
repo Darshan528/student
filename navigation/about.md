@@ -151,12 +151,13 @@ Gallery of Pics, scroll to the right for more ...
   <img src="ttps://static.sadhguru.org/d/46272/1633203136-1633203135756.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
   <img src="https://static.sadhguru.org/d/46272/1633203136-1633203135756.jpg"
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
+  <img src="https://s7ap1.scene7.com/is/image/incredibleindia/1-coimbatore-tamil-nadu-perur-pateeswarar-temple-attr-hero?qlt=82&ts=1726654072821" alt="Image 5">
   <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
   <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
   <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
   <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
+  <img src="https://media.istockphoto.com/id/1271649503/photo/cheese-masala-dosa.jpg?s=612x612&w=0&k=20&c=dihYHUz-9Lc0AIvDgOaYes3FkpDoHBQudah9S5H7EyU=" alt="Image 10">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tamil_Nadu_Defence_Corridor.jpg/500px-Tamil_Nadu_Defence_Corridor.jpg" alt="Ima5ge 11">
   <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img>src= "
 </div>
