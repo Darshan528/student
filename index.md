@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: I'm [Your Full Name]
 hide: true
 ---
