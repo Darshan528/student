@@ -5,7 +5,13 @@ github_username: jm1021
 github_repo: "student" 
 baseurl: "/student" 
 future: true
+<<<<<<< HEAD
 remote_theme: pages-themes/hacker
+=======
+remote_theme: pages-theme/cayman@v0.2.0
+plugins:
+  jekyll-remote-theme 
+>>>>>>> eb02e31 (fixed background)
 minima:
   skin: dark
   social_links:
