@@ -3,7 +3,7 @@ layout: default
 title: Background with Object
 description: Use JavaScript to have an in motion background.
 sprite: images/platformer/sprites/dog.png
-background: images/platformer/backgrounds/forest for backgorund.webp
+background: images/platformer/backgrounds/papajohns.webp
 permalink: /background5
 ---
 
@@ -283,7 +283,7 @@ class Player extends GameObject {
       start() {
         this.gameLoop();
       }
-    }
+    
 
     const world = new GameWorld(backgroundImg, spriteImg);
     world.start();
