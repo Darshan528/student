@@ -2,20 +2,14 @@
 layout: default
 title: Background with Object
 description: Use JavaScript to have an in motion background.
-<<<<<<< HEAD
 sprite: images/platformer/sprites/dog.png
-background: images/platformer/backgrounds/papajohns.webp
-=======
-sprite: images/platformer/sprites/flying-ufo.png
 background: images/platformer/backgrounds/alien_planet1.jpg
->>>>>>> eb02e31 (fixed background)
 permalink: /background5
 ---
 
 <canvas id="world"></canvas>
 
 <script>
-<<<<<<< HEAD
   /* 
   Get the <canvas> element and its 2D drawing context. 
   The canvas is where all rendering (background, sprites, animations) will happen. 
@@ -281,7 +275,6 @@ class Player extends GameObject {
       gameLoop() {
         this.ctx.clearRect(0, 0, this.width, this.height);
         for (const obj of this.gameObjects) {
-=======
   const canvas = document.getElementById("world");
   const ctx = canvas.getContext('2d');
   const backgroundImg = new Image();
@@ -371,7 +364,6 @@ class Player extends GameObject {
       gameLoop() {
         this.ctx.clearRect(0, 0, this.width, this.height);
         for (const obj of this.objects) {
->>>>>>> eb02e31 (fixed background)
           obj.update();
           obj.draw(this.ctx);
         }
