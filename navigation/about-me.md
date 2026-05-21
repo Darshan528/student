@@ -12,7 +12,7 @@ comments: true
     border-bottom: 1px solid #2d2d2d;
     margin-bottom: 2rem;
   }
-  .hero h1 { font-size: 2rem; margin-bottom: 0.3rem; }
+  .hero h1 { font-size: 4.2rem !important; margin-bottom: 0.3rem; }
   .hero p { color: #aaa; margin: 0; }
 
   .section { margin-bottom: 2rem; }
